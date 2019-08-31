@@ -1,6 +1,8 @@
 # PogoAssets
-PokémonGO Unity assets
 
-All the files in apk and downloaded on your phone when game is running
+Combination of various Pokemon icon repositories for consistent styling:
+- https://github.com/ZeChrales/PogoAssets
+- https://github.com/whitewillem/sprites/
+- https://github.com/Aranoh/pkmn_shuffle_icons_pokesquad/
 
-PNG, TXT and WAV
+Intended for usage with RocketMap, specifically [OSM-Rocketmap](https://github.com/cecpk/OSM-Rocketmap) with the `pogo-assets` and `generate-images` options.
